@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TFHKA.RafaelSalazar.PracticaTDD/1.0.0": {
+        "dependencies": {
+          "TFHKA.RafaelSalazar.PracticaTDDLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TFHKA.RafaelSalazar.PracticaTDD.dll": {}
+        }
+      },
+      "TFHKA.RafaelSalazar.PracticaTDDLibrary/1.0.0": {
+        "runtime": {
+          "TFHKA.RafaelSalazar.PracticaTDDLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TFHKA.RafaelSalazar.PracticaTDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TFHKA.RafaelSalazar.PracticaTDDLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\bin\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.deps.json
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\bin\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\bin\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.pdb
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.csprojAssemblyReference.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.AssemblyInfoInputs.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.AssemblyInfo.cs
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\TFHKA.RafaelSalazar.PracticaTDD\TFHKA.RafaelSalazar.PracticaTDDLibrary\obj\Debug\netcoreapp3.1\TFHKA.RafaelSalazar.PracticaTDDLibrary.pdb

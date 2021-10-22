@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMRt04g7ashg8q5grILonCi2e01Rx/0ZcEhHIOkPRftLxrKOPCchk1DOCRjYVYk1qMmt7ARKCSpR4z6kt6g0Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\TFHKA.RafaelSalazar.PracticaTDD\\TFHKA.RafaelSalazar.PracticaTDD\\TFHKA.RafaelSalazar.PracticaTDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DFacturePaises\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

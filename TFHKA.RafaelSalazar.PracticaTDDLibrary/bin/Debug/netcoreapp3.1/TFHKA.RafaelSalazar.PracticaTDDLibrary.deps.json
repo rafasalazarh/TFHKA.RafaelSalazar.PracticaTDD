@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TFHKA.RafaelSalazar.PracticaTDDLibrary/1.0.0": {
+        "runtime": {
+          "TFHKA.RafaelSalazar.PracticaTDDLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TFHKA.RafaelSalazar.PracticaTDDLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
